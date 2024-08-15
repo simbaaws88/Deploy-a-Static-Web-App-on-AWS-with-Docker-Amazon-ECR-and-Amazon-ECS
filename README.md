@@ -1,3 +1,5 @@
+![Architecture Diagram](1._Docker.jpg)
+![Architecture Diagram](21._VPC_Reference_Architecture.jpg)
 ![Architecture Diagram](22._Nat_Gateway_Reference_Architecture.jpg)
 ---
 
